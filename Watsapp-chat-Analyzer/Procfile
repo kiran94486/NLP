@@ -1,1 +1,2 @@
-web: sh setup.sh && streamlit run app.py
+terminal: streamlit run app.py
+runn this in terminal to start the app
