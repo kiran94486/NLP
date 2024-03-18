@@ -1,2 +1,0 @@
-terminal: streamlit run app.py
-runn this in terminal to start the app
